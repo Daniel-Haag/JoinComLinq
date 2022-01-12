@@ -1,0 +1,15 @@
+C:\Cursos\Curso C# Avançado\Seção 4 - LINQ e LAMBDA\JoinComLINQ\JoinComLINQ\bin\Debug\net6.0\JoinComLINQ.exe
+C:\Cursos\Curso C# Avançado\Seção 4 - LINQ e LAMBDA\JoinComLINQ\JoinComLINQ\bin\Debug\net6.0\JoinComLINQ.deps.json
+C:\Cursos\Curso C# Avançado\Seção 4 - LINQ e LAMBDA\JoinComLINQ\JoinComLINQ\bin\Debug\net6.0\JoinComLINQ.runtimeconfig.json
+C:\Cursos\Curso C# Avançado\Seção 4 - LINQ e LAMBDA\JoinComLINQ\JoinComLINQ\bin\Debug\net6.0\JoinComLINQ.dll
+C:\Cursos\Curso C# Avançado\Seção 4 - LINQ e LAMBDA\JoinComLINQ\JoinComLINQ\bin\Debug\net6.0\ref\JoinComLINQ.dll
+C:\Cursos\Curso C# Avançado\Seção 4 - LINQ e LAMBDA\JoinComLINQ\JoinComLINQ\bin\Debug\net6.0\JoinComLINQ.pdb
+C:\Cursos\Curso C# Avançado\Seção 4 - LINQ e LAMBDA\JoinComLINQ\JoinComLINQ\obj\Debug\net6.0\JoinComLINQ.csproj.AssemblyReference.cache
+C:\Cursos\Curso C# Avançado\Seção 4 - LINQ e LAMBDA\JoinComLINQ\JoinComLINQ\obj\Debug\net6.0\JoinComLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Curso C# Avançado\Seção 4 - LINQ e LAMBDA\JoinComLINQ\JoinComLINQ\obj\Debug\net6.0\JoinComLINQ.AssemblyInfoInputs.cache
+C:\Cursos\Curso C# Avançado\Seção 4 - LINQ e LAMBDA\JoinComLINQ\JoinComLINQ\obj\Debug\net6.0\JoinComLINQ.AssemblyInfo.cs
+C:\Cursos\Curso C# Avançado\Seção 4 - LINQ e LAMBDA\JoinComLINQ\JoinComLINQ\obj\Debug\net6.0\JoinComLINQ.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso C# Avançado\Seção 4 - LINQ e LAMBDA\JoinComLINQ\JoinComLINQ\obj\Debug\net6.0\JoinComLINQ.dll
+C:\Cursos\Curso C# Avançado\Seção 4 - LINQ e LAMBDA\JoinComLINQ\JoinComLINQ\obj\Debug\net6.0\ref\JoinComLINQ.dll
+C:\Cursos\Curso C# Avançado\Seção 4 - LINQ e LAMBDA\JoinComLINQ\JoinComLINQ\obj\Debug\net6.0\JoinComLINQ.pdb
+C:\Cursos\Curso C# Avançado\Seção 4 - LINQ e LAMBDA\JoinComLINQ\JoinComLINQ\obj\Debug\net6.0\JoinComLINQ.genruntimeconfig.cache
